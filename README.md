@@ -1,4 +1,4 @@
-# fedda_tracking
+# fedda_tracking og fedda_autopost - Program som tracker posisjon til Fredrik sin gps, og legger det på facebook. + autoposting av innlegg på facebook frem i tid.
 Sør-Amerika på tvers for Mental Helse Ungdom
 Alle pengene går til Mental Helse Ungdom for å styrke Hjelpechatten, deres viktige chat-tjeneste for ungdom med psykiske utfordringer. Støtten vil også bidra til økt synlighet, slik at flere unge over hele Norge kan få hjelp.
 Hei! Mitt navn er Fredrik Huth Jensen, og i desember 2024 legger jeg ut på mitt hittil største eventyr. Jeg skal gå over 2000 kilometer fra Stillehavet i Chile til Atlanterhavet i Argentina, over Andesfjellene og gjennom Patagonia. Målet mitt er å fullføre reisen på 120 dager. Men - turen handler ikke bare om utholdenhet, den handler om noe mye viktigere: å gi ungdom håp og inspirasjon. Jeg har derfor opprettet en spleis for å støtte arbeidet til Mental Helse Ungdom. Målet er å samle inn 200 000 kroner innen 1. mai 2025.
