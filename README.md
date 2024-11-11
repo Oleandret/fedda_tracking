@@ -25,6 +25,8 @@ Alle pengene som samles inn, går direkte til Mental Helse Ungdom. Jeg håper du
 
 
 henter ut gps data fra garmin, og poster på facebook med kart hvor fredrik er i verden
+hans garmin side er: https://share.garmin.com/fedda
+
 # Facebook Position Poster
 
 Dette Python-programmet er laget for å hente GPS-posisjonen din fra en Garmin-delingsside og publisere denne posisjonen som et innlegg på Facebook hver 12. time.
